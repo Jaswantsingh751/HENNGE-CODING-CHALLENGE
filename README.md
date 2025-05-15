@@ -15,4 +15,14 @@ Run the script with standard input redirected from a file:
 
 
 python3 main.py < input.txt
- ```bash
+##Sample Input
+2
+4
+3 -2 1 10
+5
+9 -5 -5 -10 10
+
+
+##Sample Output
+16
+11250
